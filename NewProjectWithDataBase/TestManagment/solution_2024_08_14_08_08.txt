@@ -1,0 +1,12 @@
+The question: What is the value of 'Pie' number? (Two digits accuracy).
+
+The correct answer: 3.14
+The question: 10 + 5 =
+
+Answer: More than one answer is correct,    ( false )
+Answer: None of the answers are correct,    ( false )
+Answer: 12,    ( false )
+Answer: 6,    ( false )
+Answer: 15,    ( true )
+
+

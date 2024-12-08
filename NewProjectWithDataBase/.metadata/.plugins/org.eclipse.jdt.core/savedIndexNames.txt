@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\קרן טובול\Downloads\NewProjectWithDataBase\.metadata\.plugins\org.eclipse.jdt.core
+3682354305.index
+517581033.index
+3501714628.index
+1865797976.index

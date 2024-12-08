@@ -1,0 +1,18 @@
+The question: What is the value of 'Pie' number? (Two digits accuracy).
+
+The correct answer: 3.14
+The question: 30 * 30 = 
+
+Answer: None of the answers are correct,    ( false )
+Answer: 900,    ( true )
+Answer: 663,    ( false )
+Answer: 435,    ( false )
+
+The question: 45 - 17 =
+
+Answer: None of the answers are correct,    ( false )
+Answer: 0,    ( false )
+Answer: 28,    ( true )
+Answer: 3,    ( false )
+
+

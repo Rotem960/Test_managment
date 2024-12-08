@@ -1,0 +1,14 @@
+The question: 44444
+
+The correct answer: ddddd
+The question: ffffff
+
+The correct answer: rrttrr
+The question: how many letters there are in the abc?
+
+Answer: None of the answers are correct,    ( false )
+Answer: 55,    ( false )
+Answer: 26,    ( true )
+Answer: 24,    ( false )
+
+
